@@ -2,6 +2,8 @@
 import streamlit as st
 import seaborn as sns
 import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
 
 # Load the data
 data = pd.read_csv('data/HR_Analytics.csv')
