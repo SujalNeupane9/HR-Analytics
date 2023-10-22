@@ -1,4 +1,4 @@
-#HR Analytics Dashboard
+# HR Analytics Dashboard
 This Streamlit-based HR Analytics Dashboard allows you to explore various aspects of your HR dataset, enabling data-driven insights and visualization.
 
 ##Features
